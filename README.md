@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently Sharpening My Web Development Skills<br><br>🤖 Building Advanced Discord Bots With Discord.js<br>⚡ Working With Slash Commands , APIs , Webhooks , Databases & Automation<br><br>⚛️ Learning Advanced React.js<br>🔥 Exploring Hooks , State Management , Performance Optimization & Scalable UI Architecture<br><br>🐍 Expanding My Python Knowledge<br>🧠 Focusing On Automation , Backend Development , APIs , Data Structures & Problem-Solving<br><br>💡 Passionate About Creating Efficient , Scalable And User-Friendly Applications.
+🚀 Currently Sharpening My Web Development Skills<br><br>⚛️ Learning Advanced React.js<br>🔥 Exploring Hooks , State Management , Performance Optimization & Scalable UI Architecture<br><br>🤖 Building Advanced Discord Bots With Discord.js<br>⚡ Working With Slash Commands , APIs , Webhooks , Databases & Automation<br><br>🐍 Expanding My Python Knowledge<br>🧠 Focusing On Automation , Backend Development , APIs , Data Structures & Problem-Solving<br><br>💡 Passionate About Creating Efficient , Scalable And User-Friendly Applications.
 
 
 # 💻 Tech Stack:
